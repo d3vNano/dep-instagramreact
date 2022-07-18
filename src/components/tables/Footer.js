@@ -1,4 +1,4 @@
-export default function Footer () {
+function Footer () {
     return (
         <div class="fundo-mobile">
             <ion-icon name="home"></ion-icon>
@@ -9,3 +9,5 @@ export default function Footer () {
         </div>
     )
 }
+
+export default Footer

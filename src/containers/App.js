@@ -1,7 +1,7 @@
 
-import Header from "./Header";
-import Content from "./Content";
-import Footer from "./Footer";
+import Header from "../components/tables/Header";
+import Content from "../components/tables/Content";
+import Footer from "../components/tables/Footer";
 
 export default function App() {
     return (
